@@ -1,0 +1,38 @@
+{
+  "pizzaTypes" : [
+      {
+        "name" : "Classic Pepperoni",
+        "price" : 9.75,
+        "size" : "large",
+        "toppings" : [
+          "chesse",
+          "pepperoni"
+        ],
+        "image" : "pizza-1.jpg"
+      },
+      {
+        "name" : "Veggie Delight",
+        "price" : 12.95,
+        "size" : "small",
+        "toppings" : [
+          "chesse",
+          "green olives",
+          "tomatoes",
+          "pineaples"
+        ],
+        "image" : "pizza-2.jpg"
+      },
+      {
+        "name" : "Chicken Ceaser",
+        "price" : 12.95,
+        "size" : "large",
+        "toppings" : [
+          "chesse",
+          "chicken",
+          "garlic",
+          "bacon"
+        ],
+        "image" : "pizza-3.jpg"
+      }
+  ]
+}
